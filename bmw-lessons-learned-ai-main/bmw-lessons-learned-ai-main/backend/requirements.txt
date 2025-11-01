@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+pydantic
+pydantic-settings
+python-multipart
+openai
+python-dotenv
+aiofiles
+python-jose[cryptography]
+passlib[bcrypt]
+openpyxl
+pandas
+requests
